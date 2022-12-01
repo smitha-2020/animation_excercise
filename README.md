@@ -1,4 +1,4 @@
-# Welcome to CSS Animation
+# Welcome to CSS Animation and Transition
 
 You can choose to only make SVG and animation or integrate this assignment with your previous
 Accessibility assignment. If you want animation to be a part of your Accessibility assignment,

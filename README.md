@@ -86,4 +86,4 @@ Go to parent repo and make a pull request.
  ✨Magic ✨
 Project1 is deployed and can be checked [here](https://charming-torrone-6cda45.netlify.app/) 
 
-![alt text](https://github.com/smitha-2020/fs13-basic-html/blob/main/top1.jpg)
+![alt text](https://github.com/smitha-2020/animation_excercise/blob/main/undraw_flying_drone_re_1gur%201.svg)
